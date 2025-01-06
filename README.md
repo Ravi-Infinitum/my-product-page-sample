@@ -1,4 +1,4 @@
-# ErgoStore Product Page
+# GenericStore Product Page
 
 A modern e-commerce product page built with Next.js 15, React 19, and Tailwind CSS. Features a responsive design, image gallery with 3D model support via [3D Infinitum](https://3dinfinitum.com), and an intuitive shopping interface.
 
